@@ -1,0 +1,13 @@
+{
+  "name": "facebook",
+  "repo": "indabaui/facebook",
+  "description": "Facebook SDK",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
